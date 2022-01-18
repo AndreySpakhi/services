@@ -1,0 +1,2 @@
+start server: python server.py
+tape http://127.0.0.1:8000/ in your browser
